@@ -72,3 +72,5 @@ Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. W
 
 ### [9. Visualizing Inequalities in Life Expectancy](https://github.com/arnarejo/DataCamp-Projects/tree/master/R-Visualizing-Inequalities-in-Life-Expectancy)
 Compare life expectancy across countries and genders with ggplot2.
+
+### [10. PREDICT TAXI FARES WITH RANDOM FORESTS](https://github.com/arnarejo/DataCamp-Projects/tree/master/R-predict-taxi-fares)
