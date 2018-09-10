@@ -24,25 +24,16 @@ In this project we will explore a database of every LEGO set ever built.
 ### [7. Exploring the Bitcoin cryptocurrency market](https://github.com/arnarejo/DataCamp-Projects/tree/master/Python-cryptocurrency-market)
 You will explore the market capitalization of Bitcoin and other cryptocurrencies.
 
-### 8. Generating Keywords for Google AdWords
-Automatically generate keywords for a search engine marketing campaign using Python.
-
-### 9. The GitHub History of the Scala Language
-Find the true Scala experts by exploring its development history in Git and GitHub.
-
-### 10. Naïve Bees: Image Loading and Processing
-Load, transform, and understand images of honey bees and bumble bees in Python.
-
-### [11. Recreating John Snow's Ghost Map](https://github.com/arnarejo/DataCamp-Projects/tree/master/Pyhton-ghostmap)
+### [8. Recreating John Snow's Ghost Map](https://github.com/arnarejo/DataCamp-Projects/tree/master/Pyhton-ghostmap)
 Recreate John Snow's famous map of the 1854 cholera outbreak in London.
 
-### [12. Dr. Semmelweis and the discovery of handwashing](https://github.com/arnarejo/DataCamp-Projects/tree/master/Python-discovery-of-handwashing)
+### [9. Dr. Semmelweis and the discovery of handwashing](https://github.com/arnarejo/DataCamp-Projects/tree/master/Python-discovery-of-handwashing)
 Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing.
 
-### [13. Mobile Games A/B Testing with Cookie Cats](https://github.com/arnarejo/DataCamp-Projects/tree/master/Python-AB-testing)
+### [10. Mobile Games A/B Testing with Cookie Cats](https://github.com/arnarejo/DataCamp-Projects/tree/master/Python-AB-testing)
 Analyze an A/B test from the popular mobile puzzle game, Cookie Cats.
 
-### [14. A Network analysis of Game of Thrones](https://github.com/arnarejo/DataCamp-Projects/tree/master/Python-game-of-thrones)
+### [11. A Network analysis of Game of Thrones](https://github.com/arnarejo/DataCamp-Projects/tree/master/Python-game-of-thrones)
 Analyze the network of characters in Game of Thrones and how it changes over the course of the books.
 
 ## R PROJECTS
@@ -73,4 +64,4 @@ Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. W
 ### [9. Visualizing Inequalities in Life Expectancy](https://github.com/arnarejo/DataCamp-Projects/tree/master/R-Visualizing-Inequalities-in-Life-Expectancy)
 Compare life expectancy across countries and genders with ggplot2.
 
-### [10. PREDICT TAXI FARES WITH RANDOM FORESTS](https://github.com/arnarejo/DataCamp-Projects/tree/master/R-predict-taxi-fares)
+### [10. Predict Tax Fares with Random Forest and Decision Tree](https://github.com/arnarejo/DataCamp-Projects/tree/master/R-predict-taxi-fares)
